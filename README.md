@@ -1,4 +1,4 @@
-# [Stroke-Predoction](http://localhost:8888/notebooks/Desktop/WTF/Project/Stroke%20Prediction%20Project.ipynb)
+# [Stroke-Prediction](http://localhost:8888/notebooks/Desktop/WTF/Project/Stroke%20Prediction%20Project.ipynb)
 
 This is a collaborative machine learning project with Yusira Mutholib and Rebecca Ndubuisi.
 
